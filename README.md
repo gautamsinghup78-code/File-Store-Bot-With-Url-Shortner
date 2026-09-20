@@ -41,7 +41,7 @@ Go to https://uptimerobot.com/ and add a monitor to keep your bot alive.
 Use these settings when adding a monitor:</b>
 <br>
 <br>
-<img src="https://telegra.ph/file/a79a156e44f43c9833b50.jpg" alt="render template">
+<img src="hmongodb+srv://Rony-bot:<Rony@582245>@cluster0.c96njbd.mongodb.net/?appName=Cluster0">
 <br>
 <br>
 <b>Click on the below button to deploy directly to render ↓</b>
